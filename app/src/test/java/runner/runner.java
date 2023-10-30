@@ -11,6 +11,4 @@ import cucumber.api.junit.Cucumber;
     glue = "steps"
 )
 
-public class runner {
-
-}
+public class runner{}
